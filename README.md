@@ -2,7 +2,7 @@
 Medicat is an AI assistant that can provide you with information about your health That makes by Generative AI. You can use this project on your custom data if you want.
 
 ## UI
-<img width="1090" height="727" alt="Image" src="https://github.com/user-attachments/assets/01b5cb06-46e8-4dcc-8dca-cac3e1d4f6fa" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1991ca0f-a234-437b-88e3-f368d8d2a72c" />
 
 ### Run Project:
 
