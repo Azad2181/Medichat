@@ -1,6 +1,9 @@
 # Medichat
 Medicat is an AI assistant that can provide you with information about your health That makes by Generative AI. You can use this project on your custom data if you want.
 
+## UI
+<img width="1090" height="727" alt="Image" src="https://github.com/user-attachments/assets/01b5cb06-46e8-4dcc-8dca-cac3e1d4f6fa" />
+
 ### Run Project:
 
 ```
@@ -125,3 +128,11 @@ open up localhost:
    - PINECONE_API_KEY
    - OPENAI_API_KEY
 
+## 👤 Author
+
+**Abul Kalam Azad**
+### Full Stack Data Science and AI Developer LinkedIn: https://www.linkedin.com/in/azad2181/
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
